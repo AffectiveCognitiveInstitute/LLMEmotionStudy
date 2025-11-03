@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ERI01",
+    "scenario": "Ich habe morgen meine erste große Prüfung und kann vor Nervosität kaum schlafen."
+  },
+  {
+    "id": "ERI02",
+    "scenario": "Ich habe in der Gruppenarbeit kaum etwas beigetragen und fühle mich deswegen schuldig."
+  },
+  {
+    "id": "ERI03",
+    "scenario": "Ich habe eine Zusage für ein Auslandssemester bekommen, bin total aufgeregt!"
+  },
+  {
+    "id": "ERI04",
+    "scenario": "Ich habe in einer Präsentation versagt. Alle haben gesehen, wie nervös ich war."
+  },
+  {
+    "id": "ERI05",
+    "scenario": "Ich habe mich mit meiner besten Freundin gestritten und weiß nicht, wie ich es wieder gut machen kann."
+  },
+  {
+    "id": "ERI06",
+    "scenario": "Ich bin im ersten Semester und fühle mich oft allein und überfordert."
+  },
+  {
+    "id": "ERI07",
+    "scenario": "Ich musste mein Studium pausieren, weil ich mich um ein krankes Familienmitglied kümmern muss."
+  },
+  {
+    "id": "ERI08",
+    "scenario": "Ich habe mich total angestrengt, aber die Dozentin meinte, meine Arbeit sei nur 'okay'."
+  },
+  {
+    "id": "ERI09",
+    "scenario": "Ich habe endlich eine gute Note bekommen, nachdem ich lange gekämpft habe!"
+  },
+  {
+    "id": "ERI10",
+    "scenario": "In meiner Lerngruppe gibt es ständig Konflikte – niemand hört zu."
+  }
+]

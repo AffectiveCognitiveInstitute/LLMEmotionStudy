@@ -1,0 +1,182 @@
+[
+  {
+    "id": "EUS01",
+    "scenario": "Eine Studentin erhält ein Geschenk von einer Freundin, das sie nicht besonders mag, bedankt sich aber freundlich.",
+    "options": [ "verlegen", "verärgert", "dankbar", "gleichgültig" ],
+    "key": "verlegen"
+  },
+  {
+    "id": "EUS02",
+    "scenario": "Ein Kommilitone bekommt Lob für eine Gruppenarbeit, obwohl er kaum etwas beigetragen hat.",
+    "options": [ "schuldig", "stolz", "erleichtert", "überrascht" ],
+    "key": "schuldig"
+  },
+  {
+    "id": "EUS03",
+    "scenario": "Jemand erfährt, dass eine Freundin bei der Prüfung durchgefallen ist, während er selbst bestanden hat.",
+    "options": [ "mitfühlend", "erleichtert", "verlegen", "freudig" ],
+    "key": "mitfühlend"
+  },
+  {
+    "id": "EUS04",
+    "scenario": "Eine Person vergisst eine wichtige Deadline und merkt es erst am nächsten Tag.",
+    "options": [ "ärgerlich", "enttäuscht", "beschämt", "resigniert" ],
+    "key": "beschämt"
+  },
+  {
+    "id": "EUS05",
+    "scenario": "Ein Studierender bekommt eine schlechtere Note als erwartet, obwohl er sich sehr angestrengt hat.",
+    "options": [ "frustriert", "traurig", "verwirrt", "neidisch" ],
+    "key": "frustriert"
+  },
+  {
+    "id": "EUS06",
+    "scenario": "Eine Freundin sagt ein Treffen ab, weil sie lieber jemand anderen treffen möchte.",
+    "options": [ "gekränkt", "gleichgültig", "wütend", "verständnisvoll" ],
+    "key": "gekränkt"
+  },
+  {
+    "id": "EUS07",
+    "scenario": "Ein Kommilitone erfährt, dass sein Projekt plötzlich gelobt wird, nachdem er es fast aufgegeben hatte.",
+    "options": [ "erleichtert", "überrascht", "stolz", "dankbar" ],
+    "key": "überrascht"
+  },
+  {
+    "id": "EUS08",
+    "scenario": "Eine Person erfährt, dass ihre Bewerbung abgelehnt wurde, obwohl sie sich sicher war, ausgewählt zu werden.",
+    "options": [ "enttäuscht", "wütend", "beschämt", "resigniert" ],
+    "key": "enttäuscht"
+  },
+  {
+    "id": "EUS09",
+    "scenario": "Ein Freund bedankt sich aufrichtig für eine kleine Gefälligkeit.",
+    "options": [ "dankbar", "überrascht", "erleichtert", "verlegen" ],
+    "key": "dankbar"
+  },
+  {
+    "id": "EUS10",
+    "scenario": "Eine Kommilitonin findet heraus, dass ihr enger Freund sie hinter ihrem Rücken kritisiert hat.",
+    "options": [ "verletzt", "verärgert", "enttäuscht", "gleichgültig" ],
+    "key": "verletzt"
+  },
+  {
+    "id": "EUS11",
+    "scenario": "Jemand bekommt ein Stipendium, während andere leer ausgehen.",
+    "options": [ "stolz", "schuldig", "verlegen", "zufrieden" ],
+    "key": "verlegen"
+  },
+  {
+    "id": "EUS12",
+    "scenario": "Eine Freundin ruft unerwartet an, um sich für einen Streit zu entschuldigen.",
+    "options": [ "erleichtert", "überrascht", "misstrauisch", "gerührt" ],
+    "key": "erleichtert"
+  },
+  {
+    "id": "EUS13",
+    "scenario": "Ein Kommilitone muss ein Referat halten, das schlecht vorbereitet ist, vor vielen Zuschauern.",
+    "options": [ "ängstlich", "beschämt", "verärgert", "resigniert" ],
+    "key": "beschämt"
+  },
+  {
+    "id": "EUS14",
+    "scenario": "Jemand hört, dass ein enger Freund einen schweren Unfall hatte, es ihm aber gut geht.",
+    "options": [ "erschrocken", "erleichtert", "ängstlich", "dankbar" ],
+    "key": "erleichtert"
+  },
+  {
+    "id": "EUS15",
+    "scenario": "Ein Teammitglied wird fälschlicherweise für einen Fehler verantwortlich gemacht.",
+    "options": [ "ärgerlich", "verletzt", "hilflos", "resigniert" ],
+    "key": "ärgerlich"
+  },
+  {
+    "id": "EUS16",
+    "scenario": "Eine Studentin erhält ein Kompliment für ihre Präsentation, die tatsächlich nicht besonders gut lief.",
+    "options": [ "verlegen", "stolz", "beschämt", "zufrieden" ],
+    "key": "verlegen"
+  },
+  {
+    "id": "EUS17",
+    "scenario": "Jemand wartet lange auf eine Rückmeldung und erfährt schließlich, dass sie vergessen wurde.",
+    "options": [ "verärgert", "enttäuscht", "resigniert", "geduldig" ],
+    "key": "enttäuscht"
+  },
+  {
+    "id": "EUS18",
+    "scenario": "Eine Person wird plötzlich für eine gute Tat gelobt, mit der sie nicht gerechnet hat.",
+    "options": [ "überrascht", "gerührt", "stolz", "verlegen" ],
+    "key": "überrascht"
+  },
+  {
+    "id": "EUS19",
+    "scenario": "Eine Freundin verliert ein wichtiges Dokument durch deine Unachtsamkeit.",
+    "options": [ "schuldig", "verlegen", "ängstlich", "verärgert" ],
+    "key": "schuldig"
+  },
+  {
+    "id": "EUS20",
+    "scenario": "Ein Kollege wird für etwas kritisiert, das du getan hast.",
+    "options": [ "schuldig", "verlegen", "erleichtert", "ängstlich" ],
+    "key": "schuldig"
+  },
+  {
+    "id": "EUS21",
+    "scenario": "Ein Dozent lobt deine Arbeit, nachdem er sie lange kritisiert hatte.",
+    "options": [ "überrascht", "erleichtert", "stolz", "zufrieden" ],
+    "key": "überrascht"
+  },
+  {
+    "id": "EUS22",
+    "scenario": "Du hast ein langes Projekt abgeschlossen, das dir viel Energie gekostet hat.",
+    "options": [ "stolz", "müde", "erleichtert", "zufrieden" ],
+    "key": "erleichtert"
+  },
+  {
+    "id": "EUS23",
+    "scenario": "Ein Freund erzählt, dass er in einer schwierigen Zeit keine Unterstützung von dir bekommen hat.",
+    "options": [ "schuldig", "verlegen", "traurig", "verärgert" ],
+    "key": "schuldig"
+  },
+  {
+    "id": "EUS24",
+    "scenario": "Du bekommst plötzlich gute Neuigkeiten über etwas, das du aufgegeben hattest.",
+    "options": [ "erfreut", "überrascht", "erleichtert", "stolz" ],
+    "key": "überrascht"
+  },
+  {
+    "id": "EUS25",
+    "scenario": "Ein Freund hat vergessen, dich zu einer Feier einzuladen.",
+    "options": [ "gekränkt", "gleichgültig", "verärgert", "neidisch" ],
+    "key": "gekränkt"
+  },
+  {
+    "id": "EUS26",
+    "scenario": "Eine Freundin bedankt sich herzlich für eine Kleinigkeit, die du getan hast.",
+    "options": [ "verlegen", "dankbar", "gerührt", "überrascht" ],
+    "key": "gerührt"
+  },
+  {
+    "id": "EUS27",
+    "scenario": "Ein Dozent macht sich während des Unterrichts über deinen Fehler lustig.",
+    "options": [ "verärgert", "beschämt", "verletzlich", "gelassen" ],
+    "key": "beschämt"
+  },
+  {
+    "id": "EUS28",
+    "scenario": "Du bekommst die Nachricht, dass eine geplante Veranstaltung abgesagt wurde, auf die du dich gefreut hast.",
+    "options": [ "traurig", "enttäuscht", "gleichgültig", "ärgerlich" ],
+    "key": "enttäuscht"
+  },
+  {
+    "id": "EUS29",
+    "scenario": "Ein Freund meldet sich nach langer Zeit mit einer netten Nachricht.",
+    "options": [ "erfreut", "gerührt", "überrascht", "erleichtert" ],
+    "key": "gerührt"
+  },
+  {
+    "id": "EUS30",
+    "scenario": "Du bekommst ein Kompliment für etwas, das du tatsächlich sehr gut gemacht hast.",
+    "options": [ "stolz", "zufrieden", "verlegen", "freudig" ],
+    "key": "stolz"
+  }
+]
